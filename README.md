@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdul Mannan (Shihab)
-- 👀 I’m I am addicted with Coding.
+- 👀 I’m addicted with Coding.
 - 🌱 I’m currently learning PHP & Laravel.
 - 💞️ I’m waiting for join your team.
 - 📫 How to reach me 😉
