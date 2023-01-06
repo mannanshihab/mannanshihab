@@ -12,7 +12,7 @@
 - 👀 https://mannanshihab.github.io/Portfolio_One/
 - 👀 https://mannanshihab.github.io/Portfolio_Two/
 - 👀 https://mannanshihab.github.io/RESUME/
-- 
+
 - 🌱 I’m currently learning PHP, JavaScript & Laravel.
 
 - 📫 How to reach me 😉
